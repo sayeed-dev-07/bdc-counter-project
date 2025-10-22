@@ -19,7 +19,7 @@ function App() {
     <>
     <div className='min-h-screen w-full flex items-center justify-center bg-[#f3f4f6]'>
       <div className='flex mx-[0.6rem] items-center flex-col p-12 bg-[#fff] justify-center gap-y-[4rem] text-5xl    rounded-2xl'>
-          <div className='font-semibold'>
+          <div className='font-semibold text-black'>
           Count : {counter}
         </div>
         <div className='flex items-center  justify-center gap-y-[0.5rem] gap-x-[2rem] flex-wrap'>
